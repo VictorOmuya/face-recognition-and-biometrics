@@ -1,4 +1,4 @@
-## MACHINE LEARNING PREDICTION PROJECTS
+## FACE RECOGNITION AND BIOMETRICS
 
 These projects are all built with python 3.8.5 and Machine Learning tools
 
